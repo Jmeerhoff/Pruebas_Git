@@ -5,4 +5,4 @@
 Pruebas de github de la clase de fundamentos de ingenieria de software
 - [x] Creado el Repository
 - [x] Conectada carpeta a Github
-- [ ]
+- [x] Probar actualizar desde PC
