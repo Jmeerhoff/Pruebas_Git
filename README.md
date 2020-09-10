@@ -1,4 +1,5 @@
-# Pruebas_Git
+# Pruebas Github
+###Pruebas para la materia de github 
 
 
 Pruebas de github de la clase de fundamentos de ingenieria de software
