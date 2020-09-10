@@ -9,4 +9,4 @@ Pruebas de github de la clase de fundamentos de ingenieria de software
 - [x] Segunda prueba de subir de pc sin contraseña
 
 
-Santi es el mejor
+Santi es el peor
