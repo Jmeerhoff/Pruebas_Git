@@ -2,7 +2,7 @@
 ###Pruebas para la materia de github 
 aslkdjf
 skjdfnalfe parte 2
-asdfasd parte 3
+asdfasd parte 3s
 Probando el merge
 
 Pruebas de github de la clase de fundamentos de ingenieria de software
